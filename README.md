@@ -62,9 +62,9 @@ The application employs a carefully curated dataset that was used to train the m
 The machine learning model was trained on the provided dataset using appropriate algorithms and techniques. The training process involved feature engineering, model selection, and performance optimization.
 
 ## License
-This project is licensed under the MIT License.
+> This project is licensed under the MIT License.
 
-> Happy Disease Prediction! :stethoscope: :heart:
+Happy Disease Prediction! :stethoscope: :heart:
 
 
 
