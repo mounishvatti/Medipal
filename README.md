@@ -43,7 +43,7 @@ python app.py
 
 2. Fill in the necessary information in the input fields provided.
 
-3. Click the **"Predict"** button to obtain the prediction for the possibility of diseases.
+3. Click the **`Predict`** button to obtain the prediction for the possibility of diseases.
 
 4. The application will display the predicted diseases along with their corresponding probabilities.
 
@@ -56,15 +56,18 @@ The following technologies and libraries were used to develop this application:
 - Machine Learning (ML) libraries (e.g., scikit-learn, TensorFlow, PyTorch)
 
 ## Dataset
-The application employs a carefully curated dataset that was used to train the machine learning model. The dataset contains relevant features and labeled instances of various diseases.
+> The application employs a carefully curated dataset that was used to train the machine learning model. The dataset contains relevant features and labeled instances of various diseases.
 
 ## Model Training
-The machine learning model was trained on the provided dataset using appropriate algorithms and techniques. The training process involved feature engineering, model selection, and performance optimization.
+> The machine learning model was trained on the provided dataset using appropriate algorithms and techniques. The training process involved feature engineering, model selection, and performance optimization.
 
 ## License
 > This project is licensed under the MIT License.
 
-Happy Disease Prediction! :stethoscope: :heart:
+## Contact
+For any questions or inquiries, please contact [@mounishvatti](https://github.com/mounishvatti) at mounishvatti2002@gmail.com
+
+### Happy Disease Prediction! :stethoscope: :heart:
 
 
 
