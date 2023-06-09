@@ -1,5 +1,5 @@
 # Medipal
- Flask and ML based Web Application to predict multiple disease possiblity 
+ Flask and ML based Web Application to predict multiple disease possibility 
 
 Flask and ML-based Web Application for Disease Prediction
 
