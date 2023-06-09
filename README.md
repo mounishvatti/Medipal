@@ -35,11 +35,11 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-**The application will be accessible at 'http://localhost:5000' in your browser.**
+**The application will be accessible at http://localhost:5000 in your browser.**
 
 ## Usage
 
-1. Open the web application in your browser by visiting 'http://localhost:5000'.
+1. Open the web application in your browser by visiting http://localhost:5000.
 
 2. Fill in the necessary information in the input fields provided.
 
