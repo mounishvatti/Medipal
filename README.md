@@ -64,7 +64,7 @@ The machine learning model was trained on the provided dataset using appropriate
 ## License
 This project is licensed under the MIT License.
 
-***Happy Disease Prediction!***
+> Happy Disease Prediction! :stethoscope: :heart:
 
 
 
