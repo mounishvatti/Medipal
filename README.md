@@ -43,7 +43,7 @@ python app.py
 
 2. Fill in the necessary information in the input fields provided.
 
-3. Click the "Predict" button to obtain the prediction for the possibility of diseases.
+3. Click the **"Predict"** button to obtain the prediction for the possibility of diseases.
 
 4. The application will display the predicted diseases along with their corresponding probabilities.
 
